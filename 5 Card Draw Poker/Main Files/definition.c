@@ -138,7 +138,7 @@ void print_rules(void)
 	printf("ROUND 1: All players make their first move\n");
 	printf("ROUND 2: After players who havent folded are done betting, everyone can discard up to 3 unwanted cards from their hand and the dealer will deal the same number of cards back\n");
 	printf("ROUND 3: Bet again, there is no chance to discard cards on this round\n");
-	printf("ROUND 4: Everyone who hasn’t folded reveals their hand\n\nObjective: To win chips by being the only player that did not fold, or having the highest ranking hand between the players who did not fold");
+	printf("ROUND 4: Everyone who hasnâ€™t folded reveals their hand\n\nObjective: To win chips by being the only player that did not fold, or having the highest ranking hand between the players who did not fold");
 }
 
 /******************************************************************************
