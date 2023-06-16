@@ -1,10 +1,3 @@
-/*******************************************************************************
-* Programmer: Cole Hartman													 *
-* Date:	4/19/23																  *
-* Programming Assignment: PA 7: 5 card draw poker							  *
-* Description:	This file houses the main() function which includes the main functionality for the game*
-******************************************************************************/
-
 #include "library.h"
 
 int main(void)
