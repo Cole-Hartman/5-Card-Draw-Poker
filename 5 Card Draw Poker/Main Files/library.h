@@ -1,10 +1,3 @@
-/*******************************************************************************
-* Programmer: Cole Hartman													  *
-* Date:	4/19/23																  *
-* Programming Assignment: PA 7: 5 card draw poker							  *
-* Description:	This file houses the preproccesor directives, structs, and prototypes*
-******************************************************************************/
-
 #ifndef LIBRARY_H
 #define LIBRARY_H
 
