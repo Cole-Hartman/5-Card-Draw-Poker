@@ -4,7 +4,7 @@ Implemented by Cole Hartman
 -
 This is my application of 5 card draw poker in C.
 
-Built Using Visual Studio Community Edition 2015
+Built Using Visual Studio Community
 
 Notes
 This program was built for Windows systems. 
